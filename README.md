@@ -16,7 +16,7 @@ A landing page containing the following elements:
 
 An explanation of the project
 
-![Main Page](../../../../../../C:/Users/user/Desktop/DSBCGA/Web-Design-Challenge/web_images/MainPage.png)
+![](../../../../../../C:/Users/user/Desktop/DSBCGA/Web-Design-Challenge/web_images/MainPage.png)
 
 
 Links to each visualizations page. There should be a sidebar containing preview images of each plot. Clicking an image should take the user to that visualization.
@@ -41,7 +41,7 @@ The plot or visualization for the selected comparison (latitude vs: max temperat
 
 Contains all of the visualizations on the same page so they can easily be compared with each other.
 
-![Comparison](../../../../../../C:/Users/user/Desktop/DSBCGA/Web-Design-Challenge/web_images/comparison.png)
+![](../../../../../../C:/Users/user/Desktop/DSBCGA/Web-Design-Challenge/web_images/comparison.png)
 
 Uses a Bootstrap grid for the visualizations.
 
@@ -53,7 +53,7 @@ The grid must be two visualizations across medium and large screens, and it must
 
 - A "Data" page that displays a responsive table containing the data used in the visualizations.
 
-![Data Page](../../../../../../C:/Users/user/Desktop/DSBCGA/Web-Design-Challenge/web_images/Data.png)
+![](../../../../../../C:/Users/user/Desktop/DSBCGA/Web-Design-Challenge/web_images/Data.png)
 
 The table must be a Bootstrap table component. Refer to the Bootstrap documentation for how to use responsive tables.
 
