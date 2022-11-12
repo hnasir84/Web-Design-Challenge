@@ -16,7 +16,7 @@ A landing page containing the following elements:
 
 An explanation of the project
 
-![Alt text](../../../../../../C:/Users/user/Desktop/DSBCGA/Web-Design-Challenge/web_images/MainPage.png)
+![MainPage](C:\Users\user\Desktop\DSBCGA\Web-Design-Challenge\web_images\MainPage.png)
 
 
 Links to each visualizations page. There should be a sidebar containing preview images of each plot. Clicking an image should take the user to that visualization.
@@ -41,7 +41,7 @@ The plot or visualization for the selected comparison (latitude vs: max temperat
 
 Contains all of the visualizations on the same page so they can easily be compared with each other.
 
-![](../../../../../../C:/Users/user/Desktop/DSBCGA/Web-Design-Challenge/web_images/comparison.png)
+![](C:/Users/user/Desktop/DSBCGA/Web-Design-Challenge/web_images/comparison.png)
 
 Uses a Bootstrap grid for the visualizations.
 
@@ -81,3 +81,6 @@ It should be responsive (using media queries). The navigation bar must be simila
 Finally, the website must be deployed to GitHub Pages.
 
 https://hnasir84.github.io/Web-Design-Challenge/
+
+
+[def]: ..\web_images\MainPage.png
