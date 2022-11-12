@@ -16,7 +16,7 @@ A landing page containing the following elements:
 
 An explanation of the project
 
-![](../../../../../../C:/Users/user/Desktop/DSBCGA/Web-Design-Challenge/web_images/MainPage.png)
+![Alt text](../../../../../../C:/Users/user/Desktop/DSBCGA/Web-Design-Challenge/web_images/MainPage.png)
 
 
 Links to each visualizations page. There should be a sidebar containing preview images of each plot. Clicking an image should take the user to that visualization.
